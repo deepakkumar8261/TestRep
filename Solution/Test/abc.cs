@@ -5,6 +5,8 @@ public class myclass
 	
 	public myclass
 	{
+		abc = "rrr";
+		def ="ss";
 	}
 	
 }
