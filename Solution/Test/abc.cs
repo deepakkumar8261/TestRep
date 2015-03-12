@@ -5,6 +5,7 @@ public class myclass
 	
 	public myclass
 	{
+		abc="test";
 	}
 	
 }
