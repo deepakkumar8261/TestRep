@@ -5,7 +5,7 @@ public class myclass
 	
 	public myclass
 	{
-		abc="test";
+		abc="tes";
 	}
 	
 }
